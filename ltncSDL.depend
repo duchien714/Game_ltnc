@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676452115 source:d:\lap_trinh\project_cb\lap_trinh_nang_cao\ltncsdl\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+
